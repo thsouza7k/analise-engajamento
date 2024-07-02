@@ -1,4 +1,4 @@
-# Analise técnica de engajamento do instagram de uma empresa utilizando apenas o pandas.
+# Analise técnica de engajamento do instagram de uma empresa utilizando o pandas.
 
 ### Projeto centrado em uma pergunta: 
 - "Qual tipo de conteúdo mais engaja no instagram da empresa?"
