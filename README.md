@@ -11,7 +11,7 @@
 
 # Conclusões Finais
 - Ter pessoas é fundamental para um bom engajamento da publicação.
-    -   Em todas as tags quando havia uma pessoa o resultadi foi muito melhor.
+    -   Em todas as tags quando havia uma pessoa o resultado foi muito melhor.
 - Campanhas ajudam muito na divulgação da marca.
 - A tag 'Promoção' teve um desempenho absurdamente maior que qualquer outra tag.
 - Usar conteúdos que estão em trends ajuda bastande na divulgação da marca
